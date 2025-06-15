@@ -27,3 +27,5 @@ composer install
 cp .env.example .env
 php artisan key:generate
 php artisan serve
+# By default, the app will be available at http://localhost:8000
+```
