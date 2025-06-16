@@ -29,3 +29,9 @@ php artisan key:generate
 php artisan serve
 By default, the app will be available at http://localhost:8000
 ```
+
+### 🌐 Deployed Application
+
+You can view the live app at:
+
+[https://financial-year-production-f1ad.up.railway.app/](https://financial-year-production-f1ad.up.railway.app/)
